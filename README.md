@@ -1,1 +1,1 @@
-# automation-switches-python
+# Automation-switches-python
